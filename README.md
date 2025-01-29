@@ -1,2 +1,1 @@
-# grihf-frontend_capstone_starter_code
-frontend_capstone_starter_code
+This is a medical appointment booking website.

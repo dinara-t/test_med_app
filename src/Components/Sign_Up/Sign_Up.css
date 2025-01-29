@@ -106,14 +106,12 @@
 
 /* Styles for primary button in the signup form */
 .btn-primary {
-    background-color: #229933; /* Set background color for primary button */
+    background-color: #007bff; /* Set background color for primary button */
     color: #fff; /* Set text color for primary button */
-    font-weight: bold
 }
 
 /* Styles for danger button in the signup form */
 .btn-danger {
     background-color: #dc3545; /* Set background color for danger button */
     color: #fff; /* Set text color for danger button */
-    font-weight: bold
 }
